@@ -12,7 +12,7 @@
 
 #pragma once
 
-#include "QUInt8Buffer.hpp"
+#include <QUInt8Buffer.hpp>
 
 // Scalar versions of all the quint8 microkernels for platform portability.
 // Use the QUINT8_ prefix for all macros in this file.
